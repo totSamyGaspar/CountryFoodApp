@@ -27,10 +27,10 @@ CountryFoodApp is a mobile application that allows users to explore traditional 
 
 🚀 Future Improvements
 	•	Add user reviews and ratings for dishes.
-  •	Add Google Places API (for location-based features)
+        •	Add Google Places API (for location-based features)
 	•	Implement a search function for quick access to specific dishes.
 	•	Expand the database to include more countries and cuisines.
-  • Add to Apple Maps route building function
+        •       Add to Apple Maps route building function
  
 
 📄 License
